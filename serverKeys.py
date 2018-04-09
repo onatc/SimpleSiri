@@ -1,0 +1,1 @@
+wolfram_alpha_appid = "U2UH86-RKRWT8E9W9"
